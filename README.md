@@ -1,3 +1,3 @@
 # BookStore
-A book store app made using java, along with mockito and JUnit.
-Test Driven Development (TDD) and MVC structure.
+a__A book store app made using java, along with mockito and JUnit.
+b__Test Driven Development (TDD) and MVC structure.
